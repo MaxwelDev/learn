@@ -1,4 +1,4 @@
-package learn.edu.learn;
+package learn.edu;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
